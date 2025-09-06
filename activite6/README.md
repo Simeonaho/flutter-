@@ -37,7 +37,7 @@ Une application Flutter simple pour gérer **utilisateurs** et **notes**, compat
 1. **Cloner le projet**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Simeonaho/flutter-.git
 cd activite6
 ```
 
