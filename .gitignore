@@ -1,1 +1,59 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Web build
+web/.dart_tool/
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+web/sqflite_sw.js
+
+# Lock files
+pubspec.lock
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# Xcode
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+xcuserdata/
+
+# Android
+.gradle/
+**/build/
+**/captures/
+**/.gradle/
+local.properties
+
+# Generated files
+*.log
+*.tmp
+
+# Flutter SDK (ignorer le dossier flutter local)
 flutter/
+
